@@ -17,6 +17,42 @@ risk assessment.
 
 ```
 
+## categorical columns
+- 'term', 
+- 'grade', 
+- 'emp_length', 
+- 'home_ownership', 
+- 'verification_status',
+- 'issue_d', 
+- 'loan_status', 
+- 'purpose', 
+- 'earliest_cr_line',
+- 'int_rate_groups', 
+- 'open_acc_groups', 
+- 'revol_util_groups',
+- 'total_acc_groups', 
+- 'annual_inc_groups', 
+- 'issue_month', 
+- 'issue_year',
+- 'installment_groups', 
+- 'funded_amnt_inv_group', 
+- 'loan_amnt_groups',
+- 'dti_groups'
+
+## numerical columns
+- 'loan_amnt', 
+- 'funded_amnt_inv', 
+- 'int_rate', 
+- 'installment', 
+- 'sub_grade',
+- 'annual_inc', 
+- 'dti', 
+- 'inq_last_6mths', 
+- 'open_acc', 
+- 'pub_rec',
+- 'revol_util', 
+- 'total_acc'
+
 ## Process
 - Data Cleaning
 
