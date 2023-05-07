@@ -17,7 +17,7 @@ risk assessment.
 
 ```
 
-## categorical columns
+## after analysis taking below columns as categorical columns for further analysis
 - 'term', 
 - 'grade', 
 - 'emp_length', 
@@ -39,7 +39,7 @@ risk assessment.
 - 'loan_amnt_groups',
 - 'dti_groups'
 
-## numerical columns
+## after analysis taking below columns as numerical columns for further analysis
 - 'loan_amnt', 
 - 'funded_amnt_inv', 
 - 'int_rate', 
