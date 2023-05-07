@@ -1,4 +1,4 @@
-# Lending Club
+# Lending Club case study
 
 ## Goals of data analysis
 
@@ -55,4 +55,7 @@ risk assessment.
 
 ## Process
 - Data Cleaning
+- Univariate Analysis
+- Bivaraiate Analysis
+- Results
 
