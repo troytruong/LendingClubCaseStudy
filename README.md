@@ -37,6 +37,7 @@ risk assessment.
 ###  univariate analysis with respect to the charged off loans. There is a more probability of defaulting when : 
 
 - Applicants having house_ownership as 'RENT'
+- Applicants who use the loan to clear other debts
 - Applicants who receive interest at the rate of 13-17%
 - Applicants who have an income of range 31201 - 58402
 - Applicants with employement length of 10
@@ -46,8 +47,6 @@ risk assessment.
 - When monthly installments are between 145-274
 - Term of 36 months
 - When the loan status is Not verified
-- When the no of enquiries in last 6 months is 0
-- When the number of derogatory public records is 0
 - When the purpose is 'debt_consolidation'
 - Grade is 'B'
 - And a total grade of 'B5' level.
@@ -64,6 +63,13 @@ risk assessment.
 - When employment length is 10yrs and loan amount is 12k-14k 
 - When the loan is verified and loan amount is above 16k
 - For grade G and interest rate above 20%
+
+### The above analysis is correlation between some variables. There is a more probability of defaulting when : 
+
+- Applicants are in more dark annual income colors for heat map plt first
+- Applicants were applied the most loan in 2009 and 2011 because 2009 and 2011 are having highest correlation value for heat map second.
+- Applicant were applied the most loan for employeed 8 and 10 years are having highest correlation value for heat map third.
+- Applicant were applied the most interest rate in 2009 to 2011 are having highest correlation value for heat map fourth
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
